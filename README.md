@@ -1,1 +1,1 @@
-# DeepRadiology_rectum
+### The code for segmentation of ROI in radiotherapy
